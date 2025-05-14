@@ -10,3 +10,4 @@ Homework #6 - https://github.com/mikolaj553/Machine-Learning-Homeworks-Repo/blob
 Homework #7 - https://github.com/mikolaj553/Machine-Learning-Homeworks-Repo/blob/main/ml_hw7.ipynb
 Homework #8 - https://github.com/mikolaj553/Machine-Learning-Homeworks-Repo/blob/main/ml_hw8.ipynb
 Homework #9 - https://github.com/mikolaj553/Machine-Learning-Homeworks-Repo/blob/main/ml_hw9.ipynb
+Homework #10 - https://github.com/mikolaj553/Machine-Learning-Homeworks-Repo/blob/main/ml_hw10.ipynb
